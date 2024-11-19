@@ -1,0 +1,33 @@
+STUDENTS:
+END_STUDENTS
+CLUBS:
+Litha Madlingozi
+Chess Club
+Tiana Wessels
+Photography Club
+Gaming Club
+Debate Club
+Jody Bell
+END_CLUBS
+MEMBERSHIPS:
+John Smith:Chess Club
+John Smith:Debate Club
+John Smith:Gaming Club
+John Smith:Photography Club
+Alice Johnson:Chess Club
+Alice Johnson:Debate Club
+Alice Johnson:Gaming Club
+Alice Johnson:Photography Club
+Jody Bell:Gaming Club
+Bob Williams:Chess Club
+Bob Williams:Debate Club
+Bob Williams:Gaming Club
+Bob Williams:Photography Club
+Debate Club:Litha Madlingozi
+Debate Club:Tiana Wessels
+Tiana Wessels:Chess Club
+Tiana Wessels:Debate Club
+Gaming Club:Jody Bell
+Litha Madlingozi:Debate Club
+Chess Club:Tiana Wessels
+END_MEMBERSHIPS
