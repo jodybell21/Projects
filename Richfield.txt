@@ -1,0 +1,6 @@
+Student name is: Jody
+Student surname is: Bell
+Mathematics mark is: 80
+Programming mark is: 89
+Internet programming mark is: 50
+Passed
